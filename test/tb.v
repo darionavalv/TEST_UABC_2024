@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_example user_project (
+  tt_um_uabc_adna_test2024.v decoder.v
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
